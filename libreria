@@ -1,1 +1,57 @@
+<!DOCTYPE html>
+<html lang="it">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<head>
+    <title>
+        La mia libreria
+    </title>
+    <link rel="stylesheet" type="text/css" href="Libreria.css">
+</head>
+<body>
+    
+    <div id="header"
+    <nav>
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Catalogo</a></li>
+          <li><a href="#">Contatti</a></li>
+        </ul>
+      </nav>
+    </div>
+    <div class="container">
+        <div class="book" width="35%">
+            <h2>narrativa</h2>
+                      <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem accusantium animi, optio consequuntur inventore, reiciendis, aliquam minus excepturi repellendus reprehenderit sunt consectetur labore! Ipsum sapiente et officiis assumenda rem vel.
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Necessitatibus consectetur debitis eos molestiae impedit voluptatibus cumque optio. Id soluta, voluptatibus voluptates quo esse placeat earum sint modi culpa, non similique?
 
+            </p>
+            <img src="PizzaMargherita.jpg" alt="narrativa">
+        </div>
+        <div class="book">
+            <h2>Arte</h2>
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores vitae consequuntur, molestias distinctio officia nesciunt nostrum rem optio quaerat adipisci deserunt similique, molestiae corrupti. Dignissimos iste facere dolorum eligendi asperiores.
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis aliquid tenetur magnam animi similique odio hic tempore temporibus, amet at ea soluta numquam sed optio a itaque modi vero perferendis.
+                            </p>
+       <img src="arte.png"   alt="arte" >
+                   
+
+
+        </div>
+        <div class="book">
+            <h2>Storia</h2>
+            <p>
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maiores hic consequuntur laudantium provident similique facere mollitia nobis ad ea aliquid quam delectus quasi veniam assumenda, alias ab saepe non magnam.
+                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laudantium voluptatum quaerat reprehenderit dignissimos omnis ab magni, voluptates praesentium perferendis qui deserunt illo corrupti provident odio rem possimus. Aspernatur, cum voluptates.
+                
+            </p>
+            <img src="storia.png" alt="storia">
+
+        </div>
+    </div>
+
+</body>
+
+</html>
